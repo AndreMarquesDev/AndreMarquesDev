@@ -2,7 +2,7 @@
 
 📍  Lisbon, Portugal 🇵🇹
 
-💻 Working [@Farfetch](https://github.com/Farfetch)
+💻 Working [@Emma](https://github.com/emma-sleep)
 
 🌐 [My website](https://www.andremarquesdev.com)
 
