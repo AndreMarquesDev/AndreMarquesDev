@@ -4,7 +4,7 @@
 
 💻 Working [@Emma](https://github.com/emma-sleep)
 
-🌐 [My website](https://www.andremarquesdev.com)
+🌐 [My website](https://www.andremarquesdev.eu)
 
 ☎️ <a href="https://github.com/AndreMarquesDev" target="_blank"> ![Github Badge](http://img.shields.io/badge/-AndreMarquesDev-000?&logo=Github&logoColor=white&link=https://github.com/AndreMarquesDev)</a>
 <a href="https://www.linkedin.com/in/andr%C3%A9-gouveia-marques-675ab3127/" target="_blank"> ![Linkedin Badge](https://img.shields.io/badge/-Andr%C3%A9%20Marques-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-gouveia-marques-675ab3127/)</a>
